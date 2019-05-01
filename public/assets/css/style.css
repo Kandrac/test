@@ -1,0 +1,20 @@
+.title{
+    text-align: center;
+}
+
+body{
+    margin: auto;
+    width: 960px;
+    background-color: rgb(174, 141, 212);
+}
+
+.addBurger{
+    text-align: center;
+}
+
+.burgerImg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
